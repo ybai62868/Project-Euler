@@ -1,2 +1,2 @@
 # Project-Euler
-### One problem for many kinds of programming language.
+### One problem used by C++ and Python.
